@@ -1,0 +1,10 @@
+C:\Users\Sonal Jha\source\repos\qestion 7.2\qestion 7.2\bin\Debug\netcoreapp3.1\qestion 7.2.exe
+C:\Users\Sonal Jha\source\repos\qestion 7.2\qestion 7.2\bin\Debug\netcoreapp3.1\qestion 7.2.deps.json
+C:\Users\Sonal Jha\source\repos\qestion 7.2\qestion 7.2\bin\Debug\netcoreapp3.1\qestion 7.2.runtimeconfig.json
+C:\Users\Sonal Jha\source\repos\qestion 7.2\qestion 7.2\bin\Debug\netcoreapp3.1\qestion 7.2.runtimeconfig.dev.json
+C:\Users\Sonal Jha\source\repos\qestion 7.2\qestion 7.2\bin\Debug\netcoreapp3.1\qestion 7.2.dll
+C:\Users\Sonal Jha\source\repos\qestion 7.2\qestion 7.2\bin\Debug\netcoreapp3.1\qestion 7.2.pdb
+C:\Users\Sonal Jha\source\repos\qestion 7.2\qestion 7.2\obj\Debug\netcoreapp3.1\qestion 7.2.AssemblyInfoInputs.cache
+C:\Users\Sonal Jha\source\repos\qestion 7.2\qestion 7.2\obj\Debug\netcoreapp3.1\qestion 7.2.AssemblyInfo.vb
+C:\Users\Sonal Jha\source\repos\qestion 7.2\qestion 7.2\obj\Debug\netcoreapp3.1\qestion 7.2.dll
+C:\Users\Sonal Jha\source\repos\qestion 7.2\qestion 7.2\obj\Debug\netcoreapp3.1\qestion 7.2.pdb

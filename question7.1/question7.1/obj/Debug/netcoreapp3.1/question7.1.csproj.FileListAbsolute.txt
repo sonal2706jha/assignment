@@ -1,0 +1,11 @@
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\bin\Debug\netcoreapp3.1\question7.1.exe
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\bin\Debug\netcoreapp3.1\question7.1.deps.json
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\bin\Debug\netcoreapp3.1\question7.1.runtimeconfig.json
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\bin\Debug\netcoreapp3.1\question7.1.runtimeconfig.dev.json
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\bin\Debug\netcoreapp3.1\question7.1.dll
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\bin\Debug\netcoreapp3.1\question7.1.pdb
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\obj\Debug\netcoreapp3.1\question7.1.csprojAssemblyReference.cache
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\obj\Debug\netcoreapp3.1\question7.1.AssemblyInfoInputs.cache
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\obj\Debug\netcoreapp3.1\question7.1.AssemblyInfo.cs
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\obj\Debug\netcoreapp3.1\question7.1.dll
+C:\Users\Sonal Jha\source\repos\question7.1\question7.1\obj\Debug\netcoreapp3.1\question7.1.pdb

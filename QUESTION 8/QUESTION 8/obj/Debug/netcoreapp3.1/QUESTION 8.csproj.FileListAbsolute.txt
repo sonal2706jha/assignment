@@ -1,0 +1,11 @@
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\bin\Debug\netcoreapp3.1\QUESTION 8.exe
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\bin\Debug\netcoreapp3.1\QUESTION 8.deps.json
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\bin\Debug\netcoreapp3.1\QUESTION 8.runtimeconfig.json
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\bin\Debug\netcoreapp3.1\QUESTION 8.runtimeconfig.dev.json
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\bin\Debug\netcoreapp3.1\QUESTION 8.dll
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\bin\Debug\netcoreapp3.1\QUESTION 8.pdb
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\obj\Debug\netcoreapp3.1\QUESTION 8.csprojAssemblyReference.cache
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\obj\Debug\netcoreapp3.1\QUESTION 8.AssemblyInfoInputs.cache
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\obj\Debug\netcoreapp3.1\QUESTION 8.AssemblyInfo.cs
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\obj\Debug\netcoreapp3.1\QUESTION 8.dll
+C:\Users\Sonal Jha\source\repos\QUESTION 8\QUESTION 8\obj\Debug\netcoreapp3.1\QUESTION 8.pdb
