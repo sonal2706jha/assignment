@@ -1,0 +1,11 @@
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\bin\Debug\netcoreapp3.1\Assessment c sharp.exe
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\bin\Debug\netcoreapp3.1\Assessment c sharp.deps.json
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\bin\Debug\netcoreapp3.1\Assessment c sharp.runtimeconfig.json
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\bin\Debug\netcoreapp3.1\Assessment c sharp.runtimeconfig.dev.json
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\bin\Debug\netcoreapp3.1\Assessment c sharp.dll
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\bin\Debug\netcoreapp3.1\Assessment c sharp.pdb
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\obj\Debug\netcoreapp3.1\Assessment c sharp.csprojAssemblyReference.cache
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\obj\Debug\netcoreapp3.1\Assessment c sharp.AssemblyInfoInputs.cache
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\obj\Debug\netcoreapp3.1\Assessment c sharp.AssemblyInfo.cs
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\obj\Debug\netcoreapp3.1\Assessment c sharp.dll
+C:\Users\Sonal Jha\source\repos\Assessment c sharp\Assessment c sharp\obj\Debug\netcoreapp3.1\Assessment c sharp.pdb
