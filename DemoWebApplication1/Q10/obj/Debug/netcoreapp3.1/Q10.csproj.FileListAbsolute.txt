@@ -1,0 +1,11 @@
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\bin\Debug\netcoreapp3.1\Q10.exe
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\bin\Debug\netcoreapp3.1\Q10.deps.json
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\bin\Debug\netcoreapp3.1\Q10.runtimeconfig.json
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\bin\Debug\netcoreapp3.1\Q10.runtimeconfig.dev.json
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\bin\Debug\netcoreapp3.1\Q10.dll
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\bin\Debug\netcoreapp3.1\Q10.pdb
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\obj\Debug\netcoreapp3.1\Q10.csprojAssemblyReference.cache
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\obj\Debug\netcoreapp3.1\Q10.AssemblyInfoInputs.cache
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\obj\Debug\netcoreapp3.1\Q10.AssemblyInfo.cs
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\obj\Debug\netcoreapp3.1\Q10.dll
+C:\Users\Sonal Jha\source\repos\DemoWebApplication1\Q10\obj\Debug\netcoreapp3.1\Q10.pdb
