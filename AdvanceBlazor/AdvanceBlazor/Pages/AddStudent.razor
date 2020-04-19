@@ -1,0 +1,69 @@
+﻿@page "/AddStudent"
+@using AdvanceBlazor.Data
+@inject StudentServices studentservice
+@inject NavigationManager NavigationManager
+
+<h2>Add Students</h2>
+<hr />
+<form>
+    <div class="row">
+        <div class="col-md-8">
+            <div class=" form-group">
+                <label for=" Name" class="control-label">Name</label>
+                <input form="Name" class="form-control" @bind="@Student.Name" />
+
+            </div>
+            <div class=" form-group">
+                <label for="City" class="control-label">City</label>
+                <input form="City" class="form-control" @bind="@Student.City" />
+
+
+            </div>
+
+            <div class=" form-group">
+                <label for="Age" class="control-label">Age</label>
+                <input form="Age" class="form-control" @bind="@Student.Age" />
+
+
+            </div>
+            <div class=" form-group">
+                <label for="Gender" class="control-label"></label>
+                <select @bind="@Student.Gender" class="form-control">
+                    <option> select Gender</option>
+                    <option value="Male">Male</option>
+                    <option value="Female ">Female</option>
+                   
+
+                </select>
+
+
+            </div>
+
+        </div>
+
+        </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <input type="button" class="btn btn-primary" @onclick="@CreateStudent" value="save" />
+                <input type="button" class="btn btn-primary" @onclick="@Cancel" value="cancle" />
+            </div>
+
+        </div>
+
+    </div>
+</form>
+
+@code {
+    Student Student = new Student();
+
+    protected void CreateStudent()
+    {
+        studentservice.Insert(Student);
+        NavigationManager.NavigateTo("/StudentInfo");
+    }
+    void Cancel()
+    {
+        NavigationManager.NavigateTo("/StudentInfo");
+    }
+}
