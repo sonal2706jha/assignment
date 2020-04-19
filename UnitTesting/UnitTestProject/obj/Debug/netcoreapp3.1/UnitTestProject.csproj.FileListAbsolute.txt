@@ -1,0 +1,15 @@
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\bin\Debug\netcoreapp3.1\UnitTestProject.exe
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\bin\Debug\netcoreapp3.1\UnitTestProject.deps.json
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\bin\Debug\netcoreapp3.1\UnitTestProject.runtimeconfig.json
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\bin\Debug\netcoreapp3.1\UnitTestProject.runtimeconfig.dev.json
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\bin\Debug\netcoreapp3.1\UnitTestProject.dll
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\bin\Debug\netcoreapp3.1\UnitTestProject.pdb
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.AssemblyInfoInputs.cache
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.AssemblyInfo.cs
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.csproj.CopyComplete
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.dll
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.pdb
+C:\Users\Sonal Jha\source\repos\UnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.genruntimeconfig.cache
