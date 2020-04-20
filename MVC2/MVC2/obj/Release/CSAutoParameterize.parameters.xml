@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MVCEntities-Web.config Connection String" description="MVCEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.Entity.Db.csdl|res://*/Models.Entity.Db.ssdl|res://*/Models.Entity.Db.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-VMVCCO6\SQLEXPRESS;initial catalog=MVC;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Sonal\ Jha\\source\\repos\\MVC2\\MVC2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MVCEntities']/@connectionString" />
+  </parameter>
+</parameters>
